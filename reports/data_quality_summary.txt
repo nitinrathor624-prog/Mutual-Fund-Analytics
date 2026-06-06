@@ -1,0 +1,17 @@
+Data Quality Summary
+
+File: hdfc_top100_nav.csv
+
+Columns:
+- date
+- nav
+
+Missing Values: 0
+Duplicate Records: 0
+
+Data Types:
+- date (string)
+- nav (float)
+
+Status:
+Data loaded successfully and no major anomalies found.
